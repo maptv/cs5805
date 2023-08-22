@@ -1,5 +1,25 @@
-
 # Machine Learning (CS 5805) Fall 2023 Syllabus
+
+- [Course description](#course-description)
+- [Essential Information](#essential-information)
+- [Learning Aims](#learning-aims)
+- [Materials](#materials)
+  - [Modules](#modules)
+- [Background Required](#background-required)
+- [Grading](#grading)
+  - [Attendance and Class
+    Participation](#attendance-and-class-participation)
+  - [Late Policy](#late-policy)
+- [Zoom Best Practices](#zoom-best-practices)
+- [Communications and Feedback](#communications-and-feedback)
+- [Academic Integrity](#academic-integrity)
+- [Accommodations for Students with Special
+  Needs](#accommodations-for-students-with-special-needs)
+- [Virginia Tech Community Wellness
+  Commitment](#virginia-tech-community-wellness-commitment)
+- [Student Well-Being Support](#student-well-being-support)
+- [Academic Accommodations](#academic-accommodations)
+- [Technical support](#technical-support)
 
 ## Course description
 
@@ -53,6 +73,7 @@ By the end of the course, students will:
 - Anaconda: https://www.anaconda.com/download#downloads
 - R: https://cran.rstudio.com/
 - RStudio: https://posit.co/download/rstudio-desktop/
+- Quarto: https://quarto.org/docs/get-started/
 
 Anaconda includes VSCode and Jupyter (Lab and Notebook), and can be used
 to install RStudio, but I recommend that you install RStudio using the

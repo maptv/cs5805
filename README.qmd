@@ -1,6 +1,9 @@
 ---
 execute:
   echo: fenced
+title: "Machine Learning (CS 5805) Fall 2023 Syllabus"
+toc: true
+toc-title: "Table of contents"
 format:
   html:
     embed-resources: true
@@ -10,15 +13,13 @@ format:
     theme:
       dark: darkly
       light: flatly
-  gfm: default
   pdf:
     colorlinks: true
     pdf-engine: wkhtmltopdf
   docx: default
   ipynb: default
+  gfm: default
 ---
-
-# Machine Learning (CS 5805) Fall 2023 Syllabus
 
 ## Course description
 
@@ -66,6 +67,7 @@ a course project
 - Anaconda: https://www.anaconda.com/download#downloads
 - R: https://cran.rstudio.com/
 - RStudio: https://posit.co/download/rstudio-desktop/
+- Quarto: https://quarto.org/docs/get-started/
 
 Anaconda includes VSCode and Jupyter (Lab and Notebook), and can be used to
 install RStudio, but I recommend that you install RStudio using the link above,
